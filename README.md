@@ -1,4 +1,4 @@
-# primer-repusitorio
+# primer-repositorio
 
 este es mi primer trabajo para la clase
 3o de programacion vespertino del CBTIS 89
